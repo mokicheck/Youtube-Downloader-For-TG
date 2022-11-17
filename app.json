@@ -2,9 +2,9 @@
   "name": "YouTube-Downloader-Bot-V.2",
   "description": "<< A telegram bot To Download Youtube Files Fully Free >>",
   "logo": "https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg",
-  "keywords": [ "Youtube" , "YoutubeDownloader" , "Alpha" , "free" , "bot" , "telegram" ],
+  "keywords": [ "Youtube" , "YoutubeDownloader" , "Copylink" , "free" , "bot" , "telegram" ],
   "repository": "https://github.com/mokicheck/Youtube-Downloader-For-TG",
-  "success_url": "https://github.com/SL-Alpha-X-Team",
+  "success_url": "https://github.com/mokicheck",
   "website": "",
   "env": {
   

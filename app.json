@@ -29,18 +29,18 @@
         "GROUP_1_LINK": {
         "description": "Customizeble group 1 link.",
         "required": true, 
-        "value": "https://chat.whatsapp.com/Ku8MincABBWAEOaG44PqZE"
+        "value": "https://t.me/copylink2022"
         },
         
         "GROUP_2_LINK": {
         "description": "Customizeble group 2 link.",
         "required": true,
-        "value": "https://t.me/telegrm_music9"
+        "value": "https://t.me/copylink2022"
         },
         
         "GROUP_1_NAME": {
         "description": "Customizeble group 1 name.", "required": true,
-        "value": "🎄 Alpha-X-Community"
+        "value": "Copylink Users Q&A"
         },
         
         "GROUP_2_NAME": {

@@ -51,7 +51,7 @@
 
 # 🀄 Deploy To Heroku >>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG)
+[![Deploy](https://www.herokucdn.com/mokicheck/button.svg)](https://heroku.com/deploy?template=https://github.com/mokicheck/Youtube-Downloader-For-TG)
 
 <br>
 

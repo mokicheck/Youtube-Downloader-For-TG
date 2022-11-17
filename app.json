@@ -3,7 +3,7 @@
   "description": "<< A telegram bot To Download Youtube Files Fully Free >>",
   "logo": "https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg",
   "keywords": [ "Youtube" , "YoutubeDownloader" , "Copylink" , "free" , "bot" , "telegram" ],
-  "repository": "https://github.com/mokicheck/Youtube-Downloader-For-TG?organization=mokicheck&organization=mokicheck",
+  "repository": "https://github.com/mokicheck/Youtube-Downloader-For-TG",
   "success_url": "https://github.com/mokicheck",
   "website": "",
   "env": {
